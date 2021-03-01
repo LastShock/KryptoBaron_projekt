@@ -1,0 +1,12 @@
+{
+  "name": "Kryptobaron",
+  "displayName": "Kryptobaron",
+  "expo": {
+    "name": "Kryptobaron",
+    "slug": "Kryptobaron",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
